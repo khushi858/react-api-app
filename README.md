@@ -29,7 +29,7 @@ This is a simple React application that demonstrates the usage of APIs and routi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-api-app.git
+   git clone https://github.com/khushi858/react-api-app.git
 
 Install the dependencies:
 
