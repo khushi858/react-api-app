@@ -105,18 +105,6 @@ Make sure to deploy the output of `npm run build`
 │   └── server/    # Server-side code
 ```
 
-# React API Application
-
-This is a simple React application that fetches data from a public API and displays it.
-
-## Screenshots
-
-### Home Page
-![Home Page](react-api-app/Screenshot 2025-02-17 190252.png)
-
-### User Details Page
-![User Details](assets/screenshot2.png)
-
 ## Styling
 
 This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
