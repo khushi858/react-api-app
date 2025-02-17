@@ -112,7 +112,7 @@ This is a simple React application that fetches data from a public API and displ
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/screenshot1.png)
+![Home Page](react-api-app/Screenshot 2025-02-17 190252.png)
 
 ### User Details Page
 ![User Details](assets/screenshot2.png)
