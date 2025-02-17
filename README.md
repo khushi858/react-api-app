@@ -16,7 +16,20 @@ A modern, production-ready template for building full-stack React applications u
 
 ## Getting Started
 
-### Installation
+## Description
+This is a simple React application that demonstrates the usage of APIs and routing with React Router.
+
+## Technologies Used
+- React
+- React Router
+- Node.js
+- Express
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/react-api-app.git
 
 Install the dependencies:
 
@@ -32,8 +45,6 @@ Start the development server with HMR:
 npm run dev
 ```
 
-Your application will be available at `http://localhost:5173`.
-
 ## Building for Production
 
 Create a production build:
@@ -43,7 +54,10 @@ npm run build
 ```
 
 ## Deployment
-
+```bash
+npm start
+```
+You can now navigate to http://localhost:3000 to view the app.
 ### Docker Deployment
 
 This template includes three Dockerfiles optimized for different package managers:
@@ -90,6 +104,18 @@ Make sure to deploy the output of `npm run build`
 │   ├── client/    # Static assets
 │   └── server/    # Server-side code
 ```
+
+# React API Application
+
+This is a simple React application that fetches data from a public API and displays it.
+
+## Screenshots
+
+### Home Page
+![Home Page](assets/screenshot1.png)
+
+### User Details Page
+![User Details](assets/screenshot2.png)
 
 ## Styling
 
